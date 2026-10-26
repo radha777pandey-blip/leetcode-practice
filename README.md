@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -12,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
