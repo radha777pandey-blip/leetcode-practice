@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
