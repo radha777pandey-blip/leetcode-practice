@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0136-single-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0771-jewels-and-stones) |
 ## Counting
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
