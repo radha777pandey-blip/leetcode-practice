@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0383-ransom-note) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
@@ -86,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
