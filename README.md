@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0844-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/radha777pandey-blip/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
